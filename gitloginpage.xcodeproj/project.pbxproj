@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B21521A1D8006E50053CEA2 /* secViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B2152191D8006E50053CEA2 /* secViewController.m */; };
 		8B95AFC11D7EA6EE001B0086 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B95AFC01D7EA6EE001B0086 /* main.m */; };
 		8B95AFC41D7EA6EE001B0086 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B95AFC31D7EA6EE001B0086 /* AppDelegate.m */; };
 		8B95AFC71D7EA6EE001B0086 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B95AFC61D7EA6EE001B0086 /* ViewController.m */; };
@@ -17,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B2152181D8006E50053CEA2 /* secViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = secViewController.h; sourceTree = "<group>"; };
+		8B2152191D8006E50053CEA2 /* secViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = secViewController.m; sourceTree = "<group>"; };
 		8B95AFBC1D7EA6EE001B0086 /* gitloginpage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitloginpage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B95AFC01D7EA6EE001B0086 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8B95AFC21D7EA6EE001B0086 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -64,6 +67,8 @@
 				8B95AFC31D7EA6EE001B0086 /* AppDelegate.m */,
 				8B95AFC51D7EA6EE001B0086 /* ViewController.h */,
 				8B95AFC61D7EA6EE001B0086 /* ViewController.m */,
+				8B2152181D8006E50053CEA2 /* secViewController.h */,
+				8B2152191D8006E50053CEA2 /* secViewController.m */,
 				8B95AFC81D7EA6EF001B0086 /* Main.storyboard */,
 				8B95AFCE1D7EA6EF001B0086 /* Assets.xcassets */,
 				8B95AFD01D7EA6EF001B0086 /* LaunchScreen.storyboard */,
@@ -155,6 +160,7 @@
 				8B95AFC71D7EA6EE001B0086 /* ViewController.m in Sources */,
 				8B95AFC41D7EA6EE001B0086 /* AppDelegate.m in Sources */,
 				8B95AFC11D7EA6EE001B0086 /* main.m in Sources */,
+				8B21521A1D8006E50053CEA2 /* secViewController.m in Sources */,
 				8B95AFCD1D7EA6EF001B0086 /* gitloginpage.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -304,6 +310,7 @@
 				8B95AFD81D7EA6EF001B0086 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
